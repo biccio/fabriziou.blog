@@ -1,0 +1,4 @@
+languageCode = 'en-us'
+title = 'fabriziou.blog'
+theme = 'paper'
+contentDir = "content"
